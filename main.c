@@ -1,5 +1,5 @@
 /*
- * @file		PerfectNumberFinder.c
+ * @file	PerfectNumberFinder.c
  * @Author: 	Batuhan ARSLAN
  * @Purpose: 	Algorithm finds the perfect numbers. 
  * @Date:		04/12/2022
